@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 lichess-bot.py -u
 # -*- coding: utf-8 -*-
 
 import os
