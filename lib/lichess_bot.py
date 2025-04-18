@@ -1,4 +1,4 @@
-"""The main module that controls lichess-bot."""
+"""python3 lichess-bot.py -u"""
 import argparse
 import chess
 import chess.pgn
